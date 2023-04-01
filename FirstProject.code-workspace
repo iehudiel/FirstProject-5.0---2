@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "FirstProject",
+			"path": "."
+		},
+		{
+			"name": "UE4",
+			"path": "D:\\Program Files\\Epic Games\\UE_4.27"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"C_Cpp.default.forcedInclude": [
+			"${default}",
+			"D:\\spool\\unreal\\FirstProject\\Intermediate\\Build\\Win64\\UE4Editor\\Development\\FirstProject\\Definitions.FirstProject.h",
+			"D:\\spool\\unreal\\FirstProject\\Intermediate\\Build\\Win64\\FirstProjectEditor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h"
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
